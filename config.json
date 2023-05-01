@@ -1,7 +1,7 @@
 {
-    "token": "ETH",
-    "network": "ETH-ERC20",
-    "amount": 0.92,
+    "token": "USDC",
+    "network": "USDC-Arbitrum one",
+    "amount": { "min": 10.0, "max": 11.0 },
     "delay": { "min": 5, "max": 10 },
     "key":"",
     "secret":"",

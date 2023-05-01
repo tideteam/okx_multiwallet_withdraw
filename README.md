@@ -55,6 +55,8 @@ Griselda (https://twitter.com/Griseld97265984)
 
 * 1.0
     * Initial Release
+* 1.0.1
+    * Random amount setting
 
 ## License
 
